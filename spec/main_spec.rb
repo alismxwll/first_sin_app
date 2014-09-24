@@ -7,7 +7,6 @@ describe 'The HelloWorld App' do
   end
 
   it "says hello" do
-    get '/'
     expect(hello).to eq('Hello World!')
   end
 end

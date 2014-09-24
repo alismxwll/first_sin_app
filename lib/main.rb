@@ -1,4 +1,4 @@
 def hello
-  hello_world = 'Hello world!'
+  hello_world = 'Hello World!'
 end
 
