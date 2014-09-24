@@ -1,9 +1,9 @@
 require 'sinatra'
 
-# get '/' do
   def hello
     hello_world = 'Hello World!'
   end
 
+get '/' do
   hello
-# end
+end
